@@ -1,4 +1,4 @@
-import { BookOpen, ChevronRight, Zap } from "lucide-react";
+import { ChevronRight, Zap } from "lucide-react";
 
 export function Hero() {
   return (
