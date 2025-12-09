@@ -1,10 +1,11 @@
-import Hero from './components/Hero';
+import AboutProject from './components/AboutProject';
+import {Hero} from './components/Hero';
 
 function App() {
   return (
     <main>
       <Hero />
-      {/* Aqui adicionaremos os próximos componentes: AboutProject, Resources, etc. */}
+      <AboutProject/>
     </main>
   )
 }
